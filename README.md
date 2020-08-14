@@ -1,5 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
+## Made this App while learning fluuter from udemy course
 
 # Clima ☁
 
