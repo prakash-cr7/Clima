@@ -1,4 +1,4 @@
-## Made this App while learning fluuter from udemy course
+## Made this App while learning fluter from udemy course
 
 # Clima ☁
 
